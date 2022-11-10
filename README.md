@@ -6,7 +6,7 @@
 
 # Techs
 <div style="display: inline_block"><br>											
-  <img align="center" alt="Js" height="40" width="40" src="https://icons8.com.br/icon/tGvHBPJaKqEd/javascript">
+  <img align="center" alt="Js" height="40" width="40" src="icons8-javascript">
   <img align="center" alt="HTML" height="40" width="40" src="https://img.icons8.com/color/512/html-5.png">
   <img align="center" alt="CSS" height="50" width="50" src="https://img.icons8.com/color/512/css3.png">
 </div>
