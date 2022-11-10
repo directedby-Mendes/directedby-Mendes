@@ -1,5 +1,5 @@
 ### Welcome to my perfil GitHub.com
-### My name is my name is Diego and i am a web programmer 🐱‍🏍
+### My name is Diego and i am a web programmer 🐱‍🏍
 <div>
   <a href="https://github.com/directedby-Mendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=directedby-Mendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
