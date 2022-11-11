@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=directedby-Mendes)
 <br>
-<img src="./Logo.jpg">
+<img src="./Logo.png">
 <br>
 ### My name is Diego and i am a web programmer 🐱‍🏍
 <div>
