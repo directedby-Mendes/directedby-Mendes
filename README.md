@@ -18,7 +18,7 @@
 
 ## 👨‍💻Social Network
 <div align="center"> 
-  <a href="https://discord.com" target="_blank"><img src="./Discord.jpg" target="_blank"></a>
+  <a href="https://discord.com" target="_blank"><img src="./DISCORD.jpg" target="_blank"></a>
   <a href="https://instagram.com/diiihramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://github.com/directedby-Mendes" target="_blank"><img src="https://img.shields.io/badge/-github-333?style=for-the-badge&logo=github&logoColor=white" target="_blank"</a>
   <a href = "mailto:diegomendes677@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
