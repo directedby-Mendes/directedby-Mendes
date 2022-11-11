@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=directedby-Mendes)
 <br>
-### Welcome to my perfil GitHub.com
+<img src="./Logo.jpg">
+<br>
 ### My name is Diego and i am a web programmer 🐱‍🏍
 <div>
   <a href="https://github.com/directedby-Mendes">
