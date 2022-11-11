@@ -2,14 +2,14 @@
 <br>
 <img src="./Logo.jpg">
 <br>
-### My name is Diego and i am a web programmer 🐱‍🏍
+# My name is Diego and i am a web programmer 🐱‍🏍
 <div>
   <a href="https://github.com/directedby-Mendes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=directedby-Mendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=directedby-Mendes&layout=compact&langs_count=6&theme=radical"/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api?username=directedby-Mendes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=directedby-Mendes&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
-## Techs 
+## 🐱‍👤Stacks 
   <div align ="center" style="display: inline_block">
   <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +18,7 @@
  
 <div style="display: inline_block">
 
-## Redes Sociais
+## 👨‍💻Social Network
 <div align="center"> 
   <a href="https://discord.com" target="_blank"><img src="./Discord.jpg" target="_blank"></a>
   <a href="https://instagram.com/diiihramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
