@@ -27,4 +27,6 @@
   <a href = "mailto:diegomendes677@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/profiles/76561198051625137/" target="_blank"><img src="https://img.shields.io/badge/-steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>   
+
+  ![Snake animation](https://github.com/directedby-Mendes/directedby-Mendes/blob/output/github-contribution-grid-snake.svg).
 </div>
